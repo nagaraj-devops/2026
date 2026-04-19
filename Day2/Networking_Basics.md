@@ -23,5 +23,6 @@
    Without a NIC, a computer is "deaf and mute" to the rest of the world.
 
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/09ca175c-6518-4fed-8fc7-d5bb59bbb3df" />
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/fa64346f-8d54-4565-a261-fe91007ae7e1" />
+
 
