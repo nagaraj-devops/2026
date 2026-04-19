@@ -22,7 +22,8 @@
    The NIC is the actual plug or wireless chip on a device. It is the physical (or virtual) piece of hardware that allows a computer to connect to the network cables.
    Without a NIC, a computer is "deaf and mute" to the rest of the world.
 
+<img width="1408" height="768" alt="Gemini_Generated_Image_b3r4pb3r4pb3r4pb" src="https://github.com/user-attachments/assets/d64c64a3-85f4-450c-b730-a4189dc78a81" />
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/fa64346f-8d54-4565-a261-fe91007ae7e1" />
+
 
 
