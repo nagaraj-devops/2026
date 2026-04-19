@@ -13,6 +13,12 @@
 5. NAT (Network Address Translation)
    
    A NAT Gateway is like a one-way exit door. It allows your "Private" rooms (which don't have their own front door) to send mail out to the internet to get updates, but it prevents anyone on the internet from using that door to sneak back inside.
-7. CIDR
-8. NIC
+6. CIDR (Classless Inter-Domain Routing)
+   
+   CIDR is a way of grouping addresses. Instead of giving every device a random number, CIDR defines a "range" of addresses for your office.
+   For example, a CIDR block tells the network: "This floor owns every address from room 100 to room 200."
+7. NIC (Network Interface Card)
+   
+   The NIC is the actual plug or wireless chip on a device. It is the physical (or virtual) piece of hardware that allows a computer to connect to the network cables.
+   Without a NIC, a computer is "deaf and mute" to the rest of the world.
    
