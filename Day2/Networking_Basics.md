@@ -7,8 +7,12 @@
 3. Subnet
 
    A Subnet is a specific room inside your private office floor. You might have one room for "Public" visitors (like a reception desk) and another "Private" room for your safe (sensitive data) that no one from the outside can see.
-5. IGW
-6. NAT 
+4. IGW (Internet Gateway)
+
+   The IGW is the front door of your office floor that connects you to the outside world. If you want your servers to talk to the internet (and vice versa), they have to go through this door.
+5. NAT (Network Address Translation)
+   
+   A NAT Gateway is like a one-way exit door. It allows your "Private" rooms (which don't have their own front door) to send mail out to the internet to get updates, but it prevents anyone on the internet from using that door to sneak back inside.
 7. CIDR
 8. NIC
    
