@@ -7,5 +7,7 @@
 6. Pub RT
 7. Pub Subnet
 8. EC2
-9. Revision of Networking
+9. <img width="584" height="546" alt="image" src="https://github.com/user-attachments/assets/826ee44e-1d87-4de9-ac22-3bab513ff10e" />
+
+10. Revision of Networking
    
