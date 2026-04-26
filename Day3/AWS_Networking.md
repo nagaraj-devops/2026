@@ -16,5 +16,11 @@ Creating VPC
 Creating Public Subnets, Route Table, IGW 
 <img width="1771" height="472" alt="image" src="https://github.com/user-attachments/assets/a36363db-c3c4-450c-a262-a368392fae7b" />
 
+
+Create ec2 instance under VPC
+<img width="1277" height="879" alt="image" src="https://github.com/user-attachments/assets/bafc32db-7667-47b4-819b-b4f5e2ac831b" />
+
+Ping and check if it has internet connection
+
 10. Revision of Networking
    
