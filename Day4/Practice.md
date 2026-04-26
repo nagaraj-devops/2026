@@ -3,14 +3,12 @@
 ### NAT gateway
 ### Elastic IP
 
-<img width="588" height="690" alt="image" src="https://github.com/user-attachments/assets/0bf93376-a8f2-48d5-bd2b-5eb06642153e" />
-
 # AWS VPC Architecture Overview
 
 This document describes a tiered VPC architecture designed for high availability and security. The infrastructure is contained within a single VPC using the `10.0.0.0/16` CIDR block.
 
 ## Architecture Diagram
-![VPC Architecture](image_495181.png)
+<img width="588" height="690" alt="image" src="https://github.com/user-attachments/assets/0bf93376-a8f2-48d5-bd2b-5eb06642153e" />
 
 ## Component Breakdown
 
