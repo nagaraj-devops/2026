@@ -9,5 +9,8 @@
 8. EC2
 9. <img width="584" height="546" alt="image" src="https://github.com/user-attachments/assets/826ee44e-1d87-4de9-ac22-3bab513ff10e" />
 
+Creating VPC
+<img width="1533" height="811" alt="image" src="https://github.com/user-attachments/assets/e3be9a0f-c5d7-4dc9-996b-e3620eba800c" />
+
 10. Revision of Networking
    
