@@ -11,6 +11,7 @@
 
 Creating VPC
 <img width="1533" height="811" alt="image" src="https://github.com/user-attachments/assets/e3be9a0f-c5d7-4dc9-996b-e3620eba800c" />
+<img width="886" height="727" alt="image" src="https://github.com/user-attachments/assets/cd53f9b1-2e9c-4ec4-ae45-87d0287b59df" />
 
 10. Revision of Networking
    
